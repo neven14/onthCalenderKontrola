@@ -1,0 +1,10 @@
+C:\Users\Gordana\source\repos\MonthCalenderLontrola\MonthCalenderLontrola\bin\Debug\MonthCalenderLontrola.exe.config
+C:\Users\Gordana\source\repos\MonthCalenderLontrola\MonthCalenderLontrola\bin\Debug\MonthCalenderLontrola.exe
+C:\Users\Gordana\source\repos\MonthCalenderLontrola\MonthCalenderLontrola\bin\Debug\MonthCalenderLontrola.pdb
+C:\Users\Gordana\source\repos\MonthCalenderLontrola\MonthCalenderLontrola\obj\Debug\MonthCalenderLontrola.csprojAssemblyReference.cache
+C:\Users\Gordana\source\repos\MonthCalenderLontrola\MonthCalenderLontrola\obj\Debug\MonthCalenderLontrola.Form1.resources
+C:\Users\Gordana\source\repos\MonthCalenderLontrola\MonthCalenderLontrola\obj\Debug\MonthCalenderLontrola.Properties.Resources.resources
+C:\Users\Gordana\source\repos\MonthCalenderLontrola\MonthCalenderLontrola\obj\Debug\MonthCalenderLontrola.csproj.GenerateResource.cache
+C:\Users\Gordana\source\repos\MonthCalenderLontrola\MonthCalenderLontrola\obj\Debug\MonthCalenderLontrola.csproj.CoreCompileInputs.cache
+C:\Users\Gordana\source\repos\MonthCalenderLontrola\MonthCalenderLontrola\obj\Debug\MonthCalenderLontrola.exe
+C:\Users\Gordana\source\repos\MonthCalenderLontrola\MonthCalenderLontrola\obj\Debug\MonthCalenderLontrola.pdb
